@@ -13,9 +13,9 @@ Permite cadastrar pessoas com nome, CPF, email, data de nascimento, telefone, g√
 
 ## Tecnologias utilizadas
 
-- PHP 8+
-- Laravel 10+
-- MySQL
+- PHP 8.3.21
+- Laravel 12
+- MySQL 9.0.1
 - Blade (template engine)
 - CSS customizado
 
